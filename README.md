@@ -24,3 +24,6 @@ python src/core_stability.py     # the m = 5 part takes longer
 The searches cover **small instances only**. A counterexample they find is a real counterexample. Not finding one is evidence for the cases tested, not a proof. The general facts used in the report (AV's strategy-proofness for this utility model, PAV satisfying EJR, the open question of whether the core is always non-empty and recent results for few seats) come from the literature cited in `report/report_fa.tex`, not from these scripts.
 
 The report itself (Persian, XeLaTeX with `xepersian`) is in `report/`.
+
+## License
+MIT, see [LICENSE](LICENSE).
